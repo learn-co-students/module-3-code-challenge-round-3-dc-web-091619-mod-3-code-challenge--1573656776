@@ -5,7 +5,7 @@
 ![](demo.gif)
 
 
-For this code challenge you will be building out the above interface.  T
+For this code challenge you will be building out the above interface. 
 
 Often, on the side of the screen you will see a list of "all the things", think all of your emails or messages or youtube search results. There will usually be some information about that thing, the email subject and sender for example, but not all of the information that item contains (i.e. not the whole body of the email).
 
