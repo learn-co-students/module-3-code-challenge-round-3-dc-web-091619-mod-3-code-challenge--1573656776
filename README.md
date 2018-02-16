@@ -39,6 +39,10 @@ In the above example, you see list of courses and when you click on see detail y
 The API endpoint we need to retrieve all the courses is a conventional RESTful route
 * **Route:** GET `https://sheltered-stream-73510.herokuapp.com/users/1/courses`
 
+
+To see the students for a specific course you'll need to make a GET request 
+* **Route:** GET `https://sheltered-stream-73510.herokuapp.com/users/1/courses/:id`
+
 To update a students percentage you'll need to make a PATCH request
 * **Route:** PATCH `https://sheltered-stream-73510.herokuapp.com/users/1/students/:id`
 * **Body:**
