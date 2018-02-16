@@ -1,4 +1,1 @@
-document.addEventListener("DOMContentLoaded", function() {
-  console.log("Running");
-  App.init();
-});
+document.addEventListener("DOMContentLoaded", function() {});
