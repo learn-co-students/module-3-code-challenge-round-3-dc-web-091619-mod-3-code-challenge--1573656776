@@ -31,6 +31,8 @@ In the above example, you see list of courses and when you click on see detail y
 
 ### The API
 
+As multiple students may be using this API, your instructors will assign you a unique user id. If you are assigned an id of 1, you will only make requests to API endpoints which begin with `https://sheltered-stream-73510.herokuapp.com/users/1/`.
+
 #### API Endpoints
 `https://sheltered-stream-73510.herokuapp.com/users/1/courses` # See all courses
 `https://sheltered-stream-73510.herokuapp.com/users/1/courses/:id` # See a single course
