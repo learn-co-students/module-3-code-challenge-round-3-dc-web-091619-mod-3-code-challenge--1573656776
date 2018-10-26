@@ -5,14 +5,13 @@
 ![](demo.gif)
 
 
-For this code challenge you will be building out the above interface. 
+For this code challenge you will be building out the above interface (frequently referred to as [master-detail interface](https://en.wikipedia.org/wiki/Master%E2%80%93detail_interface)). 
 
-Often, on the side of the screen you will see a list of "all the things", think all of your emails or messages or youtube search results. There will usually be some information about that thing, the email subject and sender for example, but not all of the information that item contains (i.e. not the whole body of the email).
+On the side of the screen you will see a list of "all the things", think all of your emails or messages or YouTube search results. There will usually be some information about that thing, the email subject and sender for example, but not all of the information that item contains (i.e. not the whole body of the email).
 
 By clicking one particular item in the master list, the application will show more information about that particular item.
 
-
-In the above example, you see list of courses and when you click on see detail you can see the students in that specific course.
+In the above example, you see list of courses and when you click on see detail you can see the students in that specific course. The master (list) view remains on the page, even when you are looking at the details for one item.
 
 ## Deliverables
 
