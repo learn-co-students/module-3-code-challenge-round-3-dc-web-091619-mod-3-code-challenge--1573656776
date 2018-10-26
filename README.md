@@ -11,7 +11,7 @@ On the side of the screen you will see a list of "all the things", think all of 
 
 By clicking one particular item in the master list, the application will show more information about that particular item.
 
-In the above example, you see list of courses and when you click on see detail you can see the students in that specific course. The master (list) view remains on the page, even when you are looking at the details for one item.
+In the above example, you see list of courses and when you click on a single course, it shows details for the students in that specific course. The master (list) view remains on the page, even when you are looking at the details for one course.
 
 ## Deliverables
 
