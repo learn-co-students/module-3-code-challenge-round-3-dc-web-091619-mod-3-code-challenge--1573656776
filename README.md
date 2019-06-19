@@ -30,7 +30,10 @@ In the above example, you see list of courses and when you click on a single cou
 
 ### The API
 
-As multiple students may be using this API, your instructors will assign you a unique user id. If you are assigned an id of 1, you will only make requests to API endpoints which begin with `https://sheltered-stream-73510.herokuapp.com/users/1/`.
+As multiple students may be using this API, your instructors will assign you a unique user id. If you are assigned an id of 1, you will only make requests to API endpoints which begin with `https://warm-shore-17060.herokuapp.com/api/v1/users/1/courses/`.
+
+
+
 
 #### API Endpoints
 
